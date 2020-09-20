@@ -1,0 +1,3 @@
+
+npm install package (install locally, inside the project, folder, etc.)
+np install -g package (install globally)
