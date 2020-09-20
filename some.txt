@@ -1,1 +1,3 @@
 hello. just added some text in terminal nano Windows
+And, of course this is text added from mac. 
+Just testin some!
