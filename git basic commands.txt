@@ -6,6 +6,8 @@ git add filename.ext   /// or for all files: git add .
 git status
 git commit -m "i do something"
 git push
+git push origin branchName
+
 git pull (updates the repository)
 
 BRANCH
@@ -15,3 +17,4 @@ git branch
 git branch newbranch (create new branch)
 git checkout newbranch (switch to the new branch)
 
+git checkout -b branchName (switches to a newly created branch branchName)
