@@ -5,3 +5,4 @@ Just testin some!
 
 
 Added text for newbranchpath
+set upstream branch
